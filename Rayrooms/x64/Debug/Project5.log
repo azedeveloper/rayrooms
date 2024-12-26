@@ -1,0 +1,63 @@
+﻿  main.c
+C:\Users\albin\source\repos\Project5\Project5\main.c(18,50): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\albin\source\repos\Project5\Project5\main.c(20,62): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\albin\source\repos\Project5\Project5\main.c(20,95): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\albin\source\repos\Project5\Project5\main.c(20,109): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\albin\source\repos\Project5\Project5\main.c(47,73): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\albin\source\repos\Project5\Project5\main.c(48,83): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\albin\source\repos\Project5\Project5\main.c(54,158): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\albin\source\repos\Project5\Project5\main.c(61,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\albin\source\repos\Project5\Project5\main.c(62,77): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\albin\source\repos\Project5\Project5\main.c(63,79): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\albin\source\repos\Project5\Project5\main.c(69,158): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\albin\source\repos\Project5\Project5\main.c(74,25): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\albin\source\repos\Project5\Project5\main.c(75,99): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\albin\source\repos\Project5\Project5\main.c(77,64): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\albin\source\repos\Project5\Project5\main.c(77,66): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\albin\source\repos\Project5\Project5\main.c(81,56): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\albin\source\repos\Project5\Project5\main.c(88,52): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\albin\source\repos\Project5\Project5\main.c(89,41): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\albin\source\repos\Project5\Project5\main.c(104,61): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\albin\source\repos\Project5\Project5\main.c(105,61): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\albin\source\repos\Project5\Project5\main.c(120,48): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\albin\source\repos\Project5\Project5\main.c(121,50): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\albin\source\repos\Project5\Project5\main.c(122,49): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\albin\source\repos\Project5\Project5\main.c(126,29): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+C:\Users\albin\source\repos\Project5\Project5\main.c(46,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\albin\source\repos\Project5\Project5\main.c(77,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\albin\source\repos\Project5\Project5\main.c(78,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\albin\source\repos\Project5\Project5\main.c(79,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\albin\source\repos\Project5\Project5\main.c(93,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\albin\source\repos\Project5\Project5\main.c(94,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\albin\source\repos\Project5\Project5\main.c(95,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\albin\source\repos\Project5\Project5\main.c(103,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\albin\source\repos\Project5\Project5\main.c(110,1): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\albin\source\repos\Project5\Project5\main.c(111,1): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\albin\source\repos\Project5\Project5\main.c(112,1): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\albin\source\repos\Project5\Project5\main.c(133,21): warning C4305: 'function': truncation from 'double' to 'GLclampf'
+C:\Users\albin\source\repos\Project5\Project5\main.c(133,26): warning C4305: 'function': truncation from 'double' to 'GLclampf'
+C:\Users\albin\source\repos\Project5\Project5\main.c(133,31): warning C4305: 'function': truncation from 'double' to 'GLclampf'
+C:\Users\albin\source\repos\Project5\Project5\main.c(136,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\albin\source\repos\Project5\Project5\main.c(136,54): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\albin\source\repos\Project5\Project5\main.c(143,40): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\albin\source\repos\Project5\Project5\main.c(143,102): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\albin\source\repos\Project5\Project5\main.c(146,39): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\albin\source\repos\Project5\Project5\main.c(146,81): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\albin\source\repos\Project5\Project5\main.c(146,107): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\albin\source\repos\Project5\Project5\main.c(147,39): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\albin\source\repos\Project5\Project5\main.c(147,81): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\albin\source\repos\Project5\Project5\main.c(147,107): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\albin\source\repos\Project5\Project5\main.c(157,72): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\albin\source\repos\Project5\Project5\main.c(158,72): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\albin\source\repos\Project5\Project5\main.c(162,72): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\albin\source\repos\Project5\Project5\main.c(163,72): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\albin\source\repos\Project5\Project5\main.c(153,1): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\albin\source\repos\Project5\Project5\main.c(154,1): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\albin\source\repos\Project5\Project5\main.c(185,1): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\albin\source\repos\Project5\Project5\main.c(186,1): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\albin\source\repos\Project5\Project5\main.c(216,28): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(void)'
+  map.c
+C:\Users\albin\source\repos\Project5\Project5\map.c(57,21): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\albin\source\repos\Project5\Project5\map.c(64,13): warning C4098: 'initMap': 'void' function returning a value
+  Generating Code...
+  Project5.vcxproj -> C:\Users\albin\source\repos\Project5\x64\Debug\Project5.exe
