@@ -1,2 +1,3 @@
-packages/
-x64/
+/packages/
+/x64/Debug
+/x64/
